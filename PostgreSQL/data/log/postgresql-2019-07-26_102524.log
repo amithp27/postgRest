@@ -1,0 +1,8 @@
+2019-07-26 10:25:25.110 IST [7220] LOG:  database system was shut down at 2019-07-26 10:24:18 IST
+2019-07-26 10:25:25.383 IST [7068] LOG:  database system is ready to accept connections
+2019-07-26 10:26:40.849 IST [7068] LOG:  received fast shutdown request
+2019-07-26 10:26:40.854 IST [7544] ERROR:  canceling statement due to user request
+2019-07-26 10:26:40.878 IST [7068] LOG:  aborting any active transactions
+2019-07-26 10:26:40.886 IST [7068] LOG:  background worker "logical replication launcher" (PID 7544) exited with exit code 1
+2019-07-26 10:26:40.924 IST [7496] LOG:  shutting down
+2019-07-26 10:26:41.405 IST [7068] LOG:  database system is shut down

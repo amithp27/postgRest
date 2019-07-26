@@ -1,0 +1,188 @@
+2019-07-26 10:27:41.623 IST [7444] LOG:  database system was shut down at 2019-07-26 10:26:41 IST
+2019-07-26 10:27:41.807 IST [7020] LOG:  database system is ready to accept connections
+2019-07-26 10:52:55.919 IST [18268] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:52:55.919 IST [18268] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:52:57.982 IST [5132] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:52:57.982 IST [5132] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:08.184 IST [7784] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:08.184 IST [7784] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:10.614 IST [17068] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:10.614 IST [17068] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:13.638 IST [13280] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:13.638 IST [13280] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:17.002 IST [8780] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:17.002 IST [8780] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:20.491 IST [11160] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:20.491 IST [11160] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:22.691 IST [15968] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:22.691 IST [15968] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:44.928 IST [18224] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:44.928 IST [18224] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:46.649 IST [18028] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:46.649 IST [18028] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:50.725 IST [8160] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:50.725 IST [8160] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:53:52.084 IST [8752] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:53:52.084 IST [8752] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:54:58.769 IST [18392] FATAL:  password authentication failed for user "admin"
+2019-07-26 10:54:58.769 IST [18392] DETAIL:  Role "admin" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:55:00.298 IST [8924] FATAL:  password authentication failed for user "admin"
+2019-07-26 10:55:00.298 IST [8924] DETAIL:  Role "admin" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:55:08.568 IST [17876] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:55:08.568 IST [17876] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:55:14.927 IST [17708] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:55:14.927 IST [17708] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:55:16.784 IST [12196] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:55:16.784 IST [12196] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:55:20.552 IST [14784] FATAL:  password authentication failed for user "ma58"
+2019-07-26 10:55:20.552 IST [14784] DETAIL:  Role "ma58" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             ::1/128                 md5"
+2019-07-26 10:57:15.484 IST [13532] ERROR:  syntax error at or near "not" at character 39
+2019-07-26 10:57:15.484 IST [13532] STATEMENT:  create table dummytable(id text, name not null, text, unique(id));
+2019-07-26 10:59:27.501 IST [13532] ERROR:  syntax error at or near "GRANT" at character 42
+2019-07-26 10:59:27.501 IST [13532] STATEMENT:  GRANT TEMP ON DATABASE dummy TO postgres
+	GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA public TO postgres
+	GRANT EXECUTE ON ALL FUNCTIONS IN SCHEMA public TO  posgres
+	GRANT EXECUTE ON ALL FUNCTIONS IN SCHEMA public TO  postgres
+	;
+2019-07-26 11:16:33.184 IST [15912] LOG:  invalid length of startup packet
+2019-07-26 11:16:33.556 IST [18308] LOG:  invalid length of startup packet
+2019-07-26 11:16:34.055 IST [5364] LOG:  invalid length of startup packet
+2019-07-26 11:16:34.456 IST [4992] LOG:  invalid length of startup packet
+2019-07-26 11:16:40.151 IST [17460] LOG:  invalid length of startup packet
+2019-07-26 11:16:46.922 IST [15776] LOG:  invalid length of startup packet
+2019-07-26 11:16:47.465 IST [3540] LOG:  invalid length of startup packet
+2019-07-26 11:16:57.299 IST [8172] LOG:  incomplete startup packet
+2019-07-26 11:23:07.283 IST [3252] ERROR:  syntax error at or near "ls" at character 1
+2019-07-26 11:23:07.283 IST [3252] STATEMENT:  ls
+	create table Product1 (
+	vendor_uuid text,
+	id text not null,
+	title text not null,
+	description text,
+	price long,
+	image text,
+	dietry_flags text,
+	views long
+	primary key(id)
+	);
+2019-07-26 11:23:33.966 IST [3252] ERROR:  syntax error at or near "(" at character 165
+2019-07-26 11:23:33.966 IST [3252] STATEMENT:  create table Product1 (
+	vendor_uuid text,
+	id text not null,
+	title text not null,
+	description text,
+	price long,
+	image text,
+	dietry_flags text,
+	views long
+	primary key(id)
+	);
+2019-07-26 11:27:37.109 IST [3252] ERROR:  type "long" does not exist at character 118
+2019-07-26 11:27:37.109 IST [3252] STATEMENT:  create table Product1 (
+	id serial primary key,
+	vendor_uuid text,
+	title text unique not null,
+	description text,
+	price long not null,
+	image text,
+	dietry_flags text,
+	views long
+	);
+2019-07-26 11:31:04.597 IST [3252] ERROR:  column "prive" of relation "product1" does not exist at character 56
+2019-07-26 11:31:04.597 IST [3252] STATEMENT:  insert into Product1 (vendor_uuid, title, description, prive, imae, dietry_flags, views) values ("vendor01", "Milk 1Ltr", "Lactosefree", 10, "images/Milk_1ltr.jpg","Lactose-Free",1);
+2019-07-26 11:31:52.031 IST [16240] ERROR:  column "vendor01" does not exist at character 30
+2019-07-26 11:31:52.031 IST [16240] STATEMENT:  insert into Product1 values ("vendor01", "Milk 1Ltr", "Lactosefree", 10, "images/Milk_1ltr.jpg","Lactose-Free",1);
+2019-07-26 11:32:08.776 IST [16240] ERROR:  column "prive" of relation "product1" does not exist at character 56
+2019-07-26 11:32:08.776 IST [16240] STATEMENT:  insert into Product1 (vendor_uuid, title, description, prive, imae, dietry_flags, views) values ("vendor01", "Milk 1Ltr", "Lactosefree", 10, "images/Milk_1ltr.jpg","Lactose-Free",1);
+2019-07-26 11:32:31.471 IST [16240] ERROR:  column "prive" of relation "product1" does not exist at character 56
+2019-07-26 11:32:31.471 IST [16240] STATEMENT:  insert into Product1 (vendor_uuid, title, description, prive, imae, dietry_flags, views) values ("vendor01", "Milk 1Ltr", "Lactosefree", 10, "images/Milk_1ltr.jpg","Lactose-Free",1);
+2019-07-26 11:32:31.517 IST [16240] ERROR:  column "vendor01" does not exist at character 99
+2019-07-26 11:32:31.517 IST [16240] STATEMENT:  insert into Product1 (vendor_uuid, title, description, price, image, dietry_flags, views) values ("vendor01", "Milk 1Ltr", "Lactosefree", 10, "images/Milk_1ltr.jpg","Lactose-Free",1);
+2019-07-26 11:32:33.125 IST [16240] ERROR:  column "vendor01" does not exist at character 99
+2019-07-26 11:32:33.125 IST [16240] STATEMENT:  insert into Product1 (vendor_uuid, title, description, price, image, dietry_flags, views) values ("vendor01", "Milk 1Ltr", "Lactosefree", 10, "images/Milk_1ltr.jpg","Lactose-Free",1);
+2019-07-26 11:33:33.385 IST [16240] ERROR:  syntax error at or near "primary" at character 26
+2019-07-26 11:33:33.385 IST [16240] STATEMENT:  create table vendor (
+	id primary key,
+	name text not null,
+	mob text unique
+	);
+2019-07-26 11:34:03.709 IST [16240] ERROR:  syntax error at or near "+" at character 34
+2019-07-26 11:34:03.709 IST [16240] STATEMENT:  create table vendor (
+	id "vendor"+serial primary key,
+	name text not null,
+	mob text unique
+	);
+2019-07-26 11:34:56.574 IST [16240] ERROR:  column "vendor01" does not exist at character 44
+2019-07-26 11:34:56.574 IST [16240] STATEMENT:  insert into vendor (id, name, mob) values ("vendor01", "Mahesha", "90787865778");
+2019-07-26 11:35:24.334 IST [16240] ERROR:  column "Mahesha" does not exist at character 40
+2019-07-26 11:35:24.334 IST [16240] STATEMENT:  insert into vendor (name, mob) values ("Mahesha", "90787865778");
+2019-07-26 11:40:07.966 IST [16240] ERROR:  duplicate key value violates unique constraint "vendor_mob_key"
+2019-07-26 11:40:07.966 IST [16240] DETAIL:  Key (mob)=(90787865778) already exists.
+2019-07-26 11:40:07.966 IST [16240] STATEMENT:  insert into vendor (id, name, mob) values ('vendor02', 'Suresha', '90787865778');
+2019-07-26 11:43:32.198 IST [13552] ERROR:  relation "dummy.product1" does not exist at character 15
+2019-07-26 11:43:32.198 IST [13552] STATEMENT:  select * from dummy.Product1;
+2019-07-26 11:45:44.627 IST [8984] LOG:  invalid length of startup packet
+2019-07-26 11:45:44.981 IST [18056] LOG:  invalid length of startup packet
+2019-07-26 11:45:45.525 IST [17216] LOG:  invalid length of startup packet
+2019-07-26 11:45:45.895 IST [13496] LOG:  invalid length of startup packet
+2019-07-26 11:45:51.960 IST [4560] LOG:  invalid length of startup packet
+2019-07-26 11:46:02.128 IST [16504] LOG:  incomplete startup packet
+2019-07-26 11:46:16.301 IST [16196] LOG:  invalid length of startup packet
+2019-07-26 11:46:22.407 IST [9528] LOG:  invalid length of startup packet
+2019-07-26 11:46:22.428 IST [13472] LOG:  invalid length of startup packet
+2019-07-26 11:46:22.774 IST [17632] LOG:  invalid length of startup packet
+2019-07-26 11:48:09.729 IST [13856] LOG:  incomplete startup packet
+2019-07-26 11:48:09.749 IST [12712] LOG:  invalid length of startup packet
+2019-07-26 11:48:20.798 IST [18384] LOG:  invalid length of startup packet
+2019-07-26 11:48:20.880 IST [17848] LOG:  incomplete startup packet
+2019-07-26 11:48:29.020 IST [17496] LOG:  incomplete startup packet
+2019-07-26 11:48:29.071 IST [2620] LOG:  invalid length of startup packet
+2019-07-26 11:48:33.942 IST [840] LOG:  incomplete startup packet
+2019-07-26 11:48:33.977 IST [16360] LOG:  invalid length of startup packet
+2019-07-26 11:50:05.998 IST [8900] LOG:  invalid length of startup packet
+2019-07-26 12:30:48.479 IST [10340] ERROR:  relation "public.Product1" does not exist at character 61
+2019-07-26 12:30:48.479 IST [10340] STATEMENT:  
+	      WITH pg_source AS (SELECT "public"."Product1".* FROM "public"."Product1"    ) SELECT null AS total_result_set, pg_catalog.count(_postgrest_t) AS page_total, array[]::text[] AS header, coalesce(json_agg(_postgrest_t), '[]')::character varying AS body
+	      FROM ( SELECT * FROM pg_source) _postgrest_t 
+2019-07-26 12:33:29.390 IST [12032] ERROR:  column product1.name does not exist at character 60
+2019-07-26 12:33:29.390 IST [12032] STATEMENT:  
+	      WITH pg_source AS (SELECT "public"."product1"."id", "public"."product1"."name" FROM "public"."product1"    ) SELECT null AS total_result_set, pg_catalog.count(_postgrest_t) AS page_total, array[]::text[] AS header, coalesce(json_agg(_postgrest_t), '[]')::character varying AS body
+	      FROM ( SELECT * FROM pg_source) _postgrest_t 
+2019-07-26 12:51:16.967 IST [11200] ERROR:  column product1.orderby does not exist at character 89
+2019-07-26 12:51:16.967 IST [11200] STATEMENT:  
+	      WITH pg_source AS (SELECT "public"."product1".* FROM "public"."product1"  WHERE  "public"."product1"."orderby" = '''title'''::unknown   ) SELECT null AS total_result_set, pg_catalog.count(_postgrest_t) AS page_total, array[]::text[] AS header, coalesce(json_agg(_postgrest_t), '[]')::character varying AS body
+	      FROM ( SELECT * FROM pg_source) _postgrest_t 
+2019-07-26 12:51:21.990 IST [11200] ERROR:  column product1.orderby does not exist at character 89
+2019-07-26 12:51:21.990 IST [11200] STATEMENT:  
+	      WITH pg_source AS (SELECT "public"."product1".* FROM "public"."product1"  WHERE  "public"."product1"."orderby" = 'title'::unknown   ) SELECT null AS total_result_set, pg_catalog.count(_postgrest_t) AS page_total, array[]::text[] AS header, coalesce(json_agg(_postgrest_t), '[]')::character varying AS body
+	      FROM ( SELECT * FROM pg_source) _postgrest_t 
+2019-07-26 12:51:33.539 IST [1568] ERROR:  column product1.filter does not exist at character 89
+2019-07-26 12:51:33.539 IST [1568] STATEMENT:  
+	      WITH pg_source AS (SELECT "public"."product1".* FROM "public"."product1"  WHERE  "public"."product1"."filter" = 'title'::unknown   ) SELECT null AS total_result_set, pg_catalog.count(_postgrest_t) AS page_total, array[]::text[] AS header, coalesce(json_agg(_postgrest_t), '[]')::character varying AS body
+	      FROM ( SELECT * FROM pg_source) _postgrest_t 
+2019-07-26 12:57:08.093 IST [17756] ERROR:  relation "public.favicon.ico" does not exist at character 64
+2019-07-26 12:57:08.093 IST [17756] STATEMENT:  
+	      WITH pg_source AS (SELECT "public"."favicon.ico".* FROM "public"."favicon.ico"    ) SELECT null AS total_result_set, pg_catalog.count(_postgrest_t) AS page_total, array[]::text[] AS header, coalesce(json_agg(_postgrest_t), '[]')::character varying AS body
+	      FROM ( SELECT * FROM pg_source) _postgrest_t 
+2019-07-26 12:59:14.125 IST [12264] ERROR:  text search configuration "milk" does not exist at character 131
+2019-07-26 12:59:14.125 IST [12264] STATEMENT:  
+	      WITH pg_source AS (SELECT "public"."product1".* FROM "public"."product1"  WHERE  "public"."product1"."title" @@ to_tsquery('Milk', 'amusant'::unknown )   ) SELECT null AS total_result_set, pg_catalog.count(_postgrest_t) AS page_total, array[]::text[] AS header, coalesce(json_agg(_postgrest_t), '[]')::character varying AS body
+	      FROM ( SELECT * FROM pg_source) _postgrest_t 
